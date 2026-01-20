@@ -1,0 +1,7 @@
+{
+  "name": "Nano Banana Prompt Workflow",
+  "description": "A sophisticated workflow tool to generate consistent prompts for image and video generation using Gemini Nano Banana models, featuring AI refinement and one-click media generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
